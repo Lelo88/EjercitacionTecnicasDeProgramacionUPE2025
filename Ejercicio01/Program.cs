@@ -10,11 +10,16 @@ namespace Ejercicio01
     {
         static void Main(string[] args)
         {
+            // Inicializamos variables que utilizaremos en el código.
+            // Creamos un array de 4 elementos para almacenar los números que el usuario introducirá.
+            // Creamos una variable para almacenar la suma de los números.
             int[] numeros = new int[4];
             int suma = 0;
 
+            // Iteramos 4 veces para pedir al usuario que introduzca un número.
             for (int i = 0; i < 4; i++)
             {
+                // Creamos un bucle que se repetirá hasta que el usuario introduzca un número.
                 bool esNumero = false;
 
                 while (!esNumero) 
@@ -31,9 +36,11 @@ namespace Ejercicio01
                     }
                 }
 
+                // Sumamos el número introducido al total.
                 suma += numeros[i];
             }
 
+            // Calculamos el promedio de los números.
             double promedio = (double)suma / numeros.Length;
             Console.WriteLine("El promedio de los números es: " + promedio);
         }
