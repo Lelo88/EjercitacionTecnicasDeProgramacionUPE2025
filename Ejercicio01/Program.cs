@@ -15,8 +15,22 @@ namespace Ejercicio01
 
             for (int i = 0; i < 4; i++)
             {
-                Console.Write("Introduce un número: ");
-                numeros[i] = Convert.ToInt32(Console.ReadLine());
+                bool esNumero = false;
+
+                while (!esNumero) 
+                { 
+                    try
+                    {
+                        Console.Write("Introduce un número: ");
+                        numeros[i] = Convert.ToInt32(Console.ReadLine());
+                        esNumero = true;
+                    }
+                    catch (FormatException)
+                    {
+                        Console.WriteLine("El valor introducido no es un número. Intentalo de nuevo.");
+                    }
+                }
+
                 suma += numeros[i];
             }
 
