@@ -1,0 +1,7 @@
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\obj\Debug\Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\Leandro\Documents\UPE\TECNICAS DE PROGRAMACION\EJERCICIOS\EjercitacionTecnicasDeProgramacionUPE2025\GuiaDeEjercicios01\Ejercicio02\obj\Debug\Ejercicio02.pdb
